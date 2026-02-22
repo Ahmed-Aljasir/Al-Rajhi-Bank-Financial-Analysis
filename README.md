@@ -18,7 +18,7 @@ The project followed a rigorous analytical workflow to transform raw financial d
 ## Dashboard Visualization
 > **Note to Evaluator:** The images below represent the live, interactive dashboard used for this analysis.
 
-![Final Dashboard Screenshot](Live-Dashboard.JPG)
+![Final Dashboard Screenshot](Live-Dashboard.jpg)
 *Figure 1: Financial Performance Dashboard overview.*
 
 ## Key Insights
