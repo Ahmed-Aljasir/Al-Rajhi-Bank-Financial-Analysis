@@ -29,7 +29,7 @@ The analysis revealed a complex relationship between internal growth and externa
 * **Conclusion:** Ultimately, the findings highlight the critical interaction between a bank’s internal financial health and external monetary conditions.
 
 ## Live Dashboard Link
-**[View the Interactive Tableau Dashboard Here](PASTE_YOUR_TABLEAU_URL_HERE)**
+**[View the Interactive Tableau Dashboard Here](https://public.tableau.com/views/Dashboard_17716056052220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Assumptions & Limitations
 * The SAMA repo rate is used as a proxy for the broader macroeconomic interest rate environment.
